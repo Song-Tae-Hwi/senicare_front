@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1ea98368.css",
+    "main.js": "/static/js/main.ef93eb84.js",
+    "static/media/main-image.png": "/static/media/main-image.acc8082d246e8ffe862a.png",
+    "static/media/jioong.jpeg": "/static/media/jioong.a4c5d1f7c0d570eee7ec.jpeg",
+    "index.html": "/index.html",
+    "main.1ea98368.css.map": "/static/css/main.1ea98368.css.map",
+    "main.ef93eb84.js.map": "/static/js/main.ef93eb84.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1ea98368.css",
+    "static/js/main.ef93eb84.js"
+  ]
+}
